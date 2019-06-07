@@ -24,8 +24,9 @@ TC3 | Logga ut | 2019-06-06 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check
 ### Test Suite 4 Hantera händelser
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
+TC4 | Lägg till Observation | 2019-06-07 | 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MDEzMTE0XX0=
+eyJoaXN0b3J5IjpbMTczNjAxNjAxLDYxODAxMzExNF19
 -->
