@@ -35,9 +35,11 @@ TC5 | Lägg till bild i dagboksinlägg | 2019-06-07 | :heavy_check_mark:|:heavy_
 TC5.1 | Ta bort bild från dagboksinlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 ### Test Suite 6 
-
+Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
+--|--|--|:--:|:--:|:--:
+TC6 | Spara inlägg | 2019-06-07 | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODQ5NDcyNywxNzY5NzkzMTE0LC0xMj
-g2NzcwNjk0LDg3NTMyMTMxNSwtMTY3ODk0OTM2NSwzNDQxNzcx
-MTQsMTczNjAxNjAxLDYxODAxMzExNF19
+eyJoaXN0b3J5IjpbLTk5NTY5NjEwOCwxMDU4NDk0NzI3LDE3Nj
+k3OTMxMTQsLTEyODY3NzA2OTQsODc1MzIxMzE1LC0xNjc4OTQ5
+MzY1LDM0NDE3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
 -->
