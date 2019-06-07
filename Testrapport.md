@@ -29,9 +29,12 @@ TC4.1 | Lägg till Skott | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:h
 TC4.2 | Ta bort händelse | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 ### Test Suite 5 
-
+Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
+--|--|--|:--:|:--:|:--:
+TC5 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MzIxMzE1LC0xNjc4OTQ5MzY1LDM0ND
-E3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
+eyJoaXN0b3J5IjpbLTEyODY3NzA2OTQsODc1MzIxMzE1LC0xNj
+c4OTQ5MzY1LDM0NDE3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0
+XX0=
 -->
