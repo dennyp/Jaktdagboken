@@ -31,10 +31,13 @@ TC4.2 | Ta bort händelse | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:
 ### Test Suite 5 
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
-TC5 | Lägg till bild i dagboksinlägg | 2019-06-07 |
+TC5 | Lägg till bild i dagboksinlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+TC5.1 | Ta bort bild från dagboksinlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+
+### Test Suite 6 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTc5MzExNCwtMTI4Njc3MDY5NCw4Nz
-UzMjEzMTUsLTE2Nzg5NDkzNjUsMzQ0MTc3MTE0LDE3MzYwMTYw
-MSw2MTgwMTMxMTRdfQ==
+eyJoaXN0b3J5IjpbMTA1ODQ5NDcyNywxNzY5NzkzMTE0LC0xMj
+g2NzcwNjk0LDg3NTMyMTMxNSwtMTY3ODk0OTM2NSwzNDQxNzcx
+MTQsMTczNjAxNjAxLDYxODAxMzExNF19
 -->
