@@ -25,10 +25,10 @@ TC3 | Logga ut | 2019-06-06 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
 TC4 | Lägg till Observation | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-TC4.1 | Lägg till Skott | 2019-06-0
+TC4.1 | Lägg till Skott | 2019-06-07 | 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg3NTIyNSwxNzM2MDE2MDEsNjE4MD
-EzMTE0XX0=
+eyJoaXN0b3J5IjpbMzQ0MTc3MTE0LDE3MzYwMTYwMSw2MTgwMT
+MxMTRdfQ==
 -->
