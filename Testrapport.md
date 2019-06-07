@@ -26,10 +26,10 @@ Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
 TC4 | Lägg till Observation | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 TC4.1 | Lägg till Skott | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-TC4.2
+TC4.2 | Ta bort händelse | 2019-06-07 | 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU1NDQ3NzMsMzQ0MTc3MTE0LDE3Mz
+eyJoaXN0b3J5IjpbLTE2Nzg5NDkzNjUsMzQ0MTc3MTE0LDE3Mz
 YwMTYwMSw2MTgwMTMxMTRdfQ==
 -->
