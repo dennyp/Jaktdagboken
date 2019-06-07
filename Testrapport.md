@@ -26,10 +26,12 @@ Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
 TC4 | Lägg till Observation | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 TC4.1 | Lägg till Skott | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-TC4.2 | Ta bort händelse | 2019-06-07 | 
+TC4.2 | Ta bort händelse | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+
+### Test Suite 5 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg5NDkzNjUsMzQ0MTc3MTE0LDE3Mz
-YwMTYwMSw2MTgwMTMxMTRdfQ==
+eyJoaXN0b3J5IjpbODc1MzIxMzE1LC0xNjc4OTQ5MzY1LDM0ND
+E3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
 -->
