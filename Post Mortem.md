@@ -7,8 +7,11 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 
 ## Inledning och bakgrund
 ### Slutprodukt
+
+
 ### Syfte och mål
-Projektets syfte och mål är att utveckla en webbapplikation som ska hjälpa jägare att föra dagbok när de har varit ute och jagat eller spanat efter vilt. Jägaren ska kunna skapa dagboksinlägg med en beskrivande text över sina upplevelser och han/hon ska dessutom koppla bilder och händelser till inlägget. En händelse kan vara att man observerat ett djur eller fällt ett vilt och vill dokumentera detta. Jägaren ska också kunna se alla sina händelser på en karta.
+Projektets syfte och mål är att utveckla en webbapplikation som ska hjälpa jägare att föra dagbok när de har varit ute och jagat eller spanat efter vilt. Jägaren kan skapa dagboksinlägg med en beskrivande text över sina upplevelser och han/hon kan dessutom koppla bilder och händelser till inlägget. En händelse kan vara att man observerat ett djur eller fällt ett vilt och vill dokumentera detta.  
+
 ### Arbetssätt
 Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man skrev en kort text om vad som gick bra och vad som gick mindre bra. Veckan inleddes med ett handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration.  
 
@@ -54,7 +57,7 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten och projekts syfte/mål,  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzc1MDYzMSw3MzMzNjAzNywtMjAyND
+eyJoaXN0b3J5IjpbLTk4NDIwNDU2Nyw3MzMzNjAzNywtMjAyND
 c5ODQwNywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYy
 OTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX
 0=
