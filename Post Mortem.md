@@ -8,18 +8,14 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 ## Inledning och bakgrund
 
 ## Positiva erfarenheter
-Risklistan som jag skapade i början av projektet var till stor hjälp då jag fick sätta mig ned och tänka igenom vad som kunde gå fel. Detta gjorde att jag tidigt fokuserade på att produktionssätta applikationen för att eliminera risken det var att ha kvar det till slutet av projektet. Risklistan hjälpte mig också att komma igång med implementation tidigt då jag kom fram till att det var bättre att ha fungerande ful kod och förbättra den i efterhand allteftersom man lär sig.  
+Risklistan som jag skapade i början av projektet var till stor hjälp då jag fick sätta mig ned och tänka igenom vad som kunde gå fel. Detta gjorde att jag tidigt fokuserade på att produktionssätta applikationen för att eliminera risken det var att ha kvar det till slutet av projektet. Risklistan hjälpte mig också att komma igång med implementation tidigt då jag kom fram till att det var bättre att ha fungerande ful kod och förbättra den i efterhand allt eftersom man lär sig.  
 
 En annan positiv erfarenhet var att skapa en kravlista och prioritera denna. Prioriteringen har varit viktig så att jag inte fokuserar på fel saker utan har nedskrivet vad som är viktigast att få med. 
 
 Det iterativa arbetssättet där man planerar veckan i förväg och hela tiden fokuserar på de viktigaste punkterna är en annan stor positiv erfarenhet. Det kändes bra att tänka igenom veckan grundligt med hjälp av product backlog och det blev inte svårt att planera mina sprintar då jag hela tiden visste vad som måste göras.
 
-React som ramverk tyckte jag var väldigt bra och jag har verkligen sett potentialen det har. Jag hade lite svårt att greppa tankesättet till en början men det klarnade med tiden 
+React som ramverk tyckte jag var väldigt bra och jag har verkligen sett potentialen det har. Jag hade lite svårt att greppa tankesättet till en början men det klarnade allt eftersom. React kommer jag definitivt använda mig 
 
-
-- React
-- Handledningarna
-- 
 ## Negativa erfarenheter
 - automatiska tester
 - buggar som issues/product backlog
@@ -32,6 +28,6 @@ React som ramverk tyckte jag var väldigt bra och jag har verkligen sett potenti
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNDU2ODg3LC0xOTM3MzgzNDg5LDIwNT
-E1Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbLTEyMDUwMTQ1NTAsLTE5MzczODM0ODksMj
+A1MTUyOTc5MF19
 -->
