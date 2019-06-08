@@ -14,7 +14,7 @@ En annan positiv erfarenhet var att skapa en kravlista och prioritera denna. Pri
 
 Det iterativa arbetssättet där man planerar veckan i förväg och hela tiden fokuserar på de viktigaste punkterna är en annan stor positiv erfarenhet. Det kändes bra att tänka igenom veckan grundligt med hjälp av product backlog och det blev inte svårt att planera mina sprintar då jag hela tiden visste vad som måste göras.
 
-React som ramverk tyckte jag var väldigt bra och jag har verkligen sett potentialen det har. Jag hade lite svårt att greppa tankesättet till en början men det klarnade allt eftersom. React kommer jag definitivt använda mig 
+React som ramverk tyckte jag var väldigt bra och jag har sett potentialen det har. Jag hade lite svårt att greppa tankesättet till en början men det klarnade allt eftersom. React kommer jag definitivt använda mig av framöver och fördjupa mig mer i.
 
 ## Negativa erfarenheter
 - automatiska tester
@@ -28,6 +28,6 @@ React som ramverk tyckte jag var väldigt bra och jag har verkligen sett potenti
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUwMTQ1NTAsLTE5MzczODM0ODksMj
-A1MTUyOTc5MF19
+eyJoaXN0b3J5IjpbLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMD
+UxNTI5NzkwXX0=
 -->
