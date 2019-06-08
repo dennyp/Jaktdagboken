@@ -9,10 +9,9 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 ### Slutprodukt
 Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Alla dagboksinlägg listas och händelserna från dagboken visas på en karta så att jägaren får en överblick över var vilt ofta befinner sig.
 
-### Syfte och mål
+### Syfte
 Syftet med projektet var att leverera en implementerad och testad produkt för att få erfarenhet av hur ett projekt i arbetslivet kan gå till väga. Alla områden i ett verkligt projekt berörs genom kontinuerlig dokumentation, implementation, testning och produktionssättning.
 
-Mål 
 ### Arbetssätt
 Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man skrev en kort text om vad som gick bra och vad som gick mindre bra. Veckan inleddes med ett handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration.  
 
@@ -60,8 +59,8 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMTQ4MDY2LDEzNjE5MzAyNDIsMTk4ND
-M2ODI4MywxMTE3Nzc5NjYzLDczMzM2MDM3LC0yMDI0Nzk4NDA3
-LC01MTc1MzQ3MTQsLTEyODMzMjI4NzcsLTc1NTg1NjI5OSwtNj
-AxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTQyMjY0NzgyMCwxMzYxOTMwMjQyLDE5OD
+QzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywtMjAyNDc5ODQw
+NywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYyOTksLT
+YwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX0=
 -->
