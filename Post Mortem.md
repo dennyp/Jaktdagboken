@@ -13,6 +13,7 @@ Nedan listas de tekniker jag har använt mig utav.
 ### Frontend
 - React
 - React-bootstrap
+- Javascript
 - CSS
 - HTML
 ### Backend
@@ -46,7 +47,7 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten och projekts syfte/mål, arbetssätt, genomförande/teknik och annat som kan vara av intresse att veta kring vad som gjorts och hur det gjorts i projektet. Viktigt är att hålla sig till fakta och inte blanda in egna åsikter. Tänk också på att läsaren av rapporten kan ha en väldigt annorlunda bakgrund och t.ex. inte ha någon vidare erfarenhet av mjukvaruutveckling samtidigt som du inte kan beskriva allt från grunden, referera därför gärna till allmänt tillgängliga källor. Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NTgyNSwtMTI4MzMyMjg3NywtNzU1OD
-U2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUyOTc5
-MF19
+eyJoaXN0b3J5IjpbMTA1MzM3ODI1OSwtMTI4MzMyMjg3NywtNz
+U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
+OTc5MF19
 -->
