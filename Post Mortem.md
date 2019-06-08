@@ -8,7 +8,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 ## Inledning och bakgrund
 
 ## Positiva erfarenheter
-Risklistan som jag skapade i början av projektet var till stor hjälp då jag fick sätta mig ned och tänka igenom vad som kunde gå fel. Detta gjorde att jag tidigt fokuserade på att produktionssätta applikationen. Detta var till hjälp under hela projektet då jag kontinuerligt kunde pusha ny implementation och testa de
+Risklistan som jag skapade i början av projektet var till stor hjälp då jag fick sätta mig ned och tänka igenom vad som kunde gå fel. Detta gjorde att jag tidigt fokuserade på att produktionssätta applikationen för att minimera risken att ha
 - Planering
 - iterativa arbetssättet
 - prioritering av product backlog
@@ -28,6 +28,6 @@ Risklistan som jag skapade i början av projektet var till stor hjälp då jag f
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mjc5NjY3MCwtMTkzNzM4MzQ4OSwyMD
-UxNTI5NzkwXX0=
+eyJoaXN0b3J5IjpbLTEwMjgyOTQ1NTIsLTE5MzczODM0ODksMj
+A1MTUyOTc5MF19
 -->
