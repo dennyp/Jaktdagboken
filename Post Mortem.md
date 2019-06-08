@@ -11,7 +11,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 ### Arbetssätt
 Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man skrev en kort text om vad som gick bra och vad som gick mindre bra. Veckan inleddes med ett handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration.  
 
-Projektet var uppdelat i fyra faser; inception, elaboration, construction och transition. I inception skrevs en vision, en risklista skapades och  product backlog började skrivas. Under elaboration utökades product backlog, riskerna började hanteras och en testplan skrevs. Implementation påbörjades. I delen för construction låg fokus på fortsatt implementation
+Projektet var uppdelat i fyra faser; inception, elaboration, construction och transition. I inception skrevs en vision, en risklista skapades och  product backlog började skrivas. Under elaboration utökades product backlog, riskerna började hanteras och en testplan skrevs. Implementation påbörjades. I delen för construction låg fokus på fortsatt implementation. Till sist, i transition, hårdtestades applikationen och kvalitén säkerställdes.
 ### Tekniker
 All utveckling har skett i Visual Studio Code. I min backend har jag använt mig utav Node.js med Express.js som serverramverk. För att lagra min data användes MongoDB. React används i klienten tillsammans med React-bootstrap som är motsvarigheten till bootstrap fast allt är byggt i komponenter. För att produktionssätta applikationen valde jag att använda mig av Heroku. Nedan listas alla tekniker.
 #### Frontend
@@ -51,8 +51,8 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten och projekts syfte/mål, arbetssätt, genomförande/teknik och annat som kan vara av intresse att veta kring vad som gjorts och hur det gjorts i projektet. Viktigt är att hålla sig till fakta och inte blanda in egna åsikter. Tänk också på att läsaren av rapporten kan ha en väldigt annorlunda bakgrund och t.ex. inte ha någon vidare erfarenhet av mjukvaruutveckling samtidigt som du inte kan beskriva allt från grunden, referera därför gärna till allmänt tillgängliga källor. Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk1NDU2MzgsNzMzMzYwMzcsLTIwMj
-Q3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNzU1ODU2
-Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUyOTc5MF
-19
+eyJoaXN0b3J5IjpbNTg4NTE2MDExLDczMzM2MDM3LC0yMDI0Nz
+k4NDA3LC01MTc1MzQ3MTQsLTEyODMzMjI4NzcsLTc1NTg1NjI5
+OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1Mjk3OTBdfQ
+==
 -->
