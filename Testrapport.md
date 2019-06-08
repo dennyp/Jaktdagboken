@@ -54,11 +54,12 @@ TC8.1| Radera inlägg - Avbryt radering | 2019-06-08 |:heavy_check_mark:|:heavy_
 ### Test Suite 9 Autentisering
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
-TC9 | Autentisering "/" | 2019-06-08 | 
+TC9 | Autentisering "/" | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+TC9.1 | Autentisering Skapa inlägg | 2019-06-08 | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODYwMTkzOSwtMTc0MTgxNTE0MiwtMT
-E0OTE1MzM4NywtMTA3MDM1NTYzMSwtMTY1OTUyNjgyNiwtOTk1
-Njk2MTA4LDEwNTg0OTQ3MjcsMTc2OTc5MzExNCwtMTI4Njc3MD
-Y5NCw4NzUzMjEzMTUsLTE2Nzg5NDkzNjUsMzQ0MTc3MTE0LDE3
-MzYwMTYwMSw2MTgwMTMxMTRdfQ==
+eyJoaXN0b3J5IjpbMjM3NzU4NzU3LDEzODg2MDE5MzksLTE3ND
+E4MTUxNDIsLTExNDkxNTMzODcsLTEwNzAzNTU2MzEsLTE2NTk1
+MjY4MjYsLTk5NTY5NjEwOCwxMDU4NDk0NzI3LDE3Njk3OTMxMT
+QsLTEyODY3NzA2OTQsODc1MzIxMzE1LC0xNjc4OTQ5MzY1LDM0
+NDE3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
 -->
