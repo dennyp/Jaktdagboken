@@ -24,14 +24,14 @@ I product backlog skulle jag kunnat brutit ner vissa krav till ännu mindre bita
 En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vill jag åtgärda den omgående. Det hade varit bättre om jag skrivit upp den som en issue och tagit hand om den när det var nödvändigt hellre än att försöka lösa den direkt.
 
 ## Sammanfattning
--   **Titel**  på ditt projekt,  **författare**  och  **datum**
+
 -   **Abstrakt:**  Förklara enkelt, kort och koncist vad din rapport handlar om, samt vilka slutsatser du har kommit fram till. Som läsare vill man kunna få en snabb blick för om rapporten är “något för mig”.
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten och projekts syfte/mål, arbetssätt, genomförande/teknik och annat som kan vara av intresse att veta kring vad som gjorts och hur det gjorts i projektet. Viktigt är att hålla sig till fakta och inte blanda in egna åsikter. Tänk också på att läsaren av rapporten kan ha en väldigt annorlunda bakgrund och t.ex. inte ha någon vidare erfarenhet av mjukvaruutveckling samtidigt som du inte kan beskriva allt från grunden, referera därför gärna till allmänt tillgängliga källor. Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Positiva erfarenheter:**  Här beskriver du vad du anser gått extra bra i ditt projekt samt din analys av varför det gick bra och hur du ska kunna upprepa denna framgång i framtida projekt.
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTM3Nzc4OSwtMTI4MzMyMjg3NywtNz
-U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
-OTc5MF19
+eyJoaXN0b3J5IjpbLTE3NzI4MzIwNjEsLTEyODMzMjI4NzcsLT
+c1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1
+Mjk3OTBdfQ==
 -->
