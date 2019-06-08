@@ -28,19 +28,24 @@ TC4 | Lägg till Observation | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark
 TC4.1 | Lägg till Skott | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 TC4.2 | Ta bort händelse | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
-### Test Suite 5 
+### Test Suite 5 Hantera bilder
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
 TC5 | Lägg till bild i dagboksinlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 TC5.1 | Ta bort bild från dagboksinlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
-### Test Suite 6 
+### Test Suite 6 Spara inlägg
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
 TC6 | Spara inlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+
+### Test Suite 7 Visa inlägg
+Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
+--|--|--|:--:|:--:|:--:
+TC6 | Spara inlägg | 2019-06-07 | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzgyNjAyNCwtOTk1Njk2MTA4LDEwNT
-g0OTQ3MjcsMTc2OTc5MzExNCwtMTI4Njc3MDY5NCw4NzUzMjEz
-MTUsLTE2Nzg5NDkzNjUsMzQ0MTc3MTE0LDE3MzYwMTYwMSw2MT
-gwMTMxMTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk1MjY4MjYsLTk5NTY5NjEwOCwxMD
+U4NDk0NzI3LDE3Njk3OTMxMTQsLTEyODY3NzA2OTQsODc1MzIx
+MzE1LC0xNjc4OTQ5MzY1LDM0NDE3NzExNCwxNzM2MDE2MDEsNj
+E4MDEzMTE0XX0=
 -->
