@@ -10,8 +10,9 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Alla dagboksinlägg listas och händelserna från dagboken visas på en karta så att jägaren får en överblick över var vilt ofta befinner sig.
 
 ### Syfte och mål
-Syftet och målet med projektet var att leverera en färdig produkt, från
+Syftet med projektet var att leverera en färdig produkt, från början till slut. Detta innebär att man för erf
 
+Mål 
 ### Arbetssätt
 Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man skrev en kort text om vad som gick bra och vad som gick mindre bra. Veckan inleddes med ett handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration.  
 
@@ -59,8 +60,8 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODEzNzY1MSwxMzYxOTMwMjQyLDE5OD
-QzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywtMjAyNDc5ODQw
-NywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYyOTksLT
-YwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX0=
+eyJoaXN0b3J5IjpbLTE1NDY1OTA4ODQsMTM2MTkzMDI0MiwxOT
+g0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcsLTIwMjQ3OTg0
+MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNzU1ODU2Mjk5LC
+02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUyOTc5MF19
 -->
