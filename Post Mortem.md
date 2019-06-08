@@ -17,7 +17,7 @@ Det iterativa arbetssättet där man planerar veckan i förväg och hela tiden f
 React som ramverk tyckte jag var väldigt bra och jag har sett potentialen det har. Jag hade lite svårt att greppa tankesättet till en början men det klarnade allt eftersom. React kommer jag definitivt använda mig av framöver och fördjupa mig mer i.
 
 ## Negativa erfarenheter
-Efter mycket om och men så valde jag att helt skippa de automatiska testerna som jag hade tänkt att utveckla för backend. Jag hade fått ont om tid till att få en fungerande applikation om jag hade lagt mer tid på det. De manuella testerna skulle jag kunnat skrivit tidigare i projektet m
+Efter mycket om och men så valde jag att helt skippa de automatiska testerna som jag hade tänkt att utveckla för backend. Jag hade fått ont om tid till att få en fungerande applikation om jag hade lagt mer tid på det. De manuella testerna skulle jag kunnat skrivit tidigare i projektet. Jag skulle också kunnat avvarat tid i sprint backloggarna för exploratory testing för nu syns det inte att jag har gjort det kontinuerligt under projektets gång.
 
 
 - buggar som issues/product backlog
@@ -30,6 +30,6 @@ Efter mycket om och men så valde jag att helt skippa de automatiska testerna so
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjc1MDU3MCwtNzU1ODU2Mjk5LC02MD
+eyJoaXN0b3J5IjpbLTYzMDQyMTU1NiwtNzU1ODU2Mjk5LC02MD
 E1NDk5MzEsLTE5MzczODM0ODksMjA1MTUyOTc5MF19
 -->
