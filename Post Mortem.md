@@ -12,7 +12,7 @@ Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. 
 ### Syfte och mål
 Projektets syfte och mål är att utveckla en webbapplikation som ska hjälpa jägare att föra dagbok när de har varit ute och jagat eller spanat efter vilt. 
 
-Under projektets gång ska tester hela 
+Under projektets gång ska dokumentation ske kontinuerligt. 
 
 ### Arbetssätt
 Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man skrev en kort text om vad som gick bra och vad som gick mindre bra. Veckan inleddes med ett handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration.  
@@ -61,8 +61,8 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkwNTU1MjQsMTExNzc3OTY2Myw3Mz
-MzNjAzNywtMjAyNDc5ODQwNywtNTE3NTM0NzE0LC0xMjgzMzIy
-ODc3LC03NTU4NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OS
-wyMDUxNTI5NzkwXX0=
+eyJoaXN0b3J5IjpbMTk4NDM2ODI4MywxMTE3Nzc5NjYzLDczMz
+M2MDM3LC0yMDI0Nzk4NDA3LC01MTc1MzQ3MTQsLTEyODMzMjI4
+NzcsLTc1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LD
+IwNTE1Mjk3OTBdfQ==
 -->
