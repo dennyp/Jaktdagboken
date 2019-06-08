@@ -1,3 +1,4 @@
+## Manuella test suites för applikationen
 :heavy_check_mark: - betyder att testet lyckats.  
 :x: - betyder att testet misslyckats.
 
@@ -58,7 +59,7 @@ TC9 | Autentisering "/" | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:he
 TC9.1 | Autentisering Skapa inlägg | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 TC9.2 | Sökvägen kan inte hittas | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTQ0NjE5NiwxNzMxNzgxMTA4LDEzOD
+eyJoaXN0b3J5IjpbLTcwMzk1MjY3NSwxNzMxNzgxMTA4LDEzOD
 g2MDE5MzksLTE3NDE4MTUxNDIsLTExNDkxNTMzODcsLTEwNzAz
 NTU2MzEsLTE2NTk1MjY4MjYsLTk5NTY5NjEwOCwxMDU4NDk0Nz
 I3LDE3Njk3OTMxMTQsLTEyODY3NzA2OTQsODc1MzIxMzE1LC0x
