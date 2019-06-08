@@ -12,7 +12,7 @@ Risklistan som jag skapade i början av projektet var till stor hjälp då jag f
 
 En annan positiv erfarenhet var att skapa en kravlista och prioritera denna. Prioriteringen har varit viktig så att jag inte fokuserar på fel saker utan har nedskrivet vad som är viktigast att få med. 
 
-Det iterativa arbetssättet där man planerar veckan i förväg och hela tiden fokuserar på de viktigaste punkterna är en annan stor positiv erfarenhet. Det kändes bra att tänka igenom veckan grundligt med hjälp av product backlog var det inte svårt att planera sina sprintar. 
+Det iterativa arbetssättet där man planerar veckan i förväg och hela tiden fokuserar på de viktigaste punkterna är en annan stor positiv erfarenhet. Det kändes bra att tänka igenom veckan grundligt med hjälp av product backlog och det blev inte svårt att planera mina sprintar då jag hela tiden visste vad som måste göras. 
 
 
 - React
@@ -30,6 +30,6 @@ Det iterativa arbetssättet där man planerar veckan i förväg och hela tiden f
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYwOTU0MTMsLTE5MzczODM0ODksMj
+eyJoaXN0b3J5IjpbLTEzNDAyODY5MzksLTE5MzczODM0ODksMj
 A1MTUyOTc5MF19
 -->
