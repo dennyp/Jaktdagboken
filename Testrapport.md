@@ -49,9 +49,9 @@ TC7.1 | Visa inlägg - annan användare | 2019-06-07 | :heavy_check_mark:|:heavy
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
 TC8 | Radera inlägg | 2019-06-08 | 
-TC8.1| Radera inlägg - Avbryt radering | 2019-06-08 |
+TC8.1| Radera inlägg - Avbryt radering | 2019-06-08 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMyMDk2NTcsLTEwNzAzNTU2MzEsLT
+eyJoaXN0b3J5IjpbLTExNDkxNTMzODcsLTEwNzAzNTU2MzEsLT
 E2NTk1MjY4MjYsLTk5NTY5NjEwOCwxMDU4NDk0NzI3LDE3Njk3
 OTMxMTQsLTEyODY3NzA2OTQsODc1MzIxMzE1LC0xNjc4OTQ5Mz
 Y1LDM0NDE3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
