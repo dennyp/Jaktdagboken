@@ -48,10 +48,10 @@ TC7.1 | Visa inlägg - annan användare | 2019-06-07 | :heavy_check_mark:|:heavy
 ### Test Suite 8 Radera inlägg
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
-TC8 | Radera inlägg | 2019-06-07 | 
+TC8 | Radera inlägg | 2019-06-0 | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAzNTU2MzEsLTE2NTk1MjY4MjYsLT
-k5NTY5NjEwOCwxMDU4NDk0NzI3LDE3Njk3OTMxMTQsLTEyODY3
-NzA2OTQsODc1MzIxMzE1LC0xNjc4OTQ5MzY1LDM0NDE3NzExNC
-wxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
+eyJoaXN0b3J5IjpbLTY2MzYwODQ2MiwtMTA3MDM1NTYzMSwtMT
+Y1OTUyNjgyNiwtOTk1Njk2MTA4LDEwNTg0OTQ3MjcsMTc2OTc5
+MzExNCwtMTI4Njc3MDY5NCw4NzUzMjEzMTUsLTE2Nzg5NDkzNj
+UsMzQ0MTc3MTE0LDE3MzYwMTYwMSw2MTgwMTMxMTRdfQ==
 -->
