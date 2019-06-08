@@ -19,7 +19,7 @@ React som ramverk tyckte jag var väldigt bra och jag har sett potentialen det h
 ## Negativa erfarenheter
 Efter mycket om och men så valde jag att helt skippa de automatiska testerna som jag hade tänkt att utveckla för backend. Jag hade fått ont om tid till att få en fungerande applikation om jag hade lagt mer tid på det. De manuella testerna skulle jag kunnat skrivit tidigare i projektet. Jag skulle också kunnat avvarat tid i sprintarna för exploratory testing för nu syns det inte att jag har gjort det kontinuerligt under projektets gång.
 
-I product backlog skulle jag kunnat brutit ner vissa krav till ännu mindre bitar. Detta hade gjort det lättare att se vad som behövde göras samt att då tidsuppskattningarna hade blivit enklare. Nu fanns det vissa punkter så som ladda upp en bild till databasen som tog fem gånger så lång tid än vad jag uppskattat. Detta för att jag inte visste tillräckligt om hur man går tillväga för att ladda upp bilder i mongoDB innan jag uppskattade tiden.
+I product backlog skulle jag kunnat brutit ner vissa krav till ännu mindre bitar. Detta hade gjort att jag  det lättare att se vad som behövde göras samt att då tidsuppskattningarna hade blivit enklare. Nu fanns det vissa punkter så som ladda upp en bild till databasen som tog fem gånger så lång tid än vad jag uppskattat. Detta för att jag inte visste tillräckligt om hur man går tillväga för att ladda upp bilder i mongoDB innan jag uppskattade tiden.
 
 
 - buggar som issues/product backlog
@@ -33,6 +33,7 @@ I product backlog skulle jag kunnat brutit ner vissa krav till ännu mindre bita
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMzMjI4NzcsLTc1NTg1NjI5OSwtNj
-AxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbMjEwNjkyODA2OCwtMTI4MzMyMjg3NywtNz
+U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
+OTc5MF19
 -->
