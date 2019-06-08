@@ -8,6 +8,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 ## Inledning och bakgrund
 
 ## Positiva erfarenheter
+Det första 
 - Planering
 - iterativa arbetssättet
 - prioritering av product backlog
@@ -17,6 +18,8 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 - 
 ## Negativa erfarenheter
 - automatiska tester
+- buggar som issues/product backlog
+- mer detaljerad product backlog - en del krav är rätt stora så som att spara. Var många saker som behövde lösas. 
 ## Sammanfattning
 -   **Titel**  på ditt projekt,  **författare**  och  **datum**
 -   **Abstrakt:**  Förklara enkelt, kort och koncist vad din rapport handlar om, samt vilka slutsatser du har kommit fram till. Som läsare vill man kunna få en snabb blick för om rapporten är “något för mig”.
@@ -25,6 +28,6 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MDI2NzIyLC0xOTM3MzgzNDg5LDIwNT
-E1Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbLTMzMjkzNTY0NSwtMTkzNzM4MzQ4OSwyMD
+UxNTI5NzkwXX0=
 -->
