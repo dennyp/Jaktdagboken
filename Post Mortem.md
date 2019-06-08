@@ -10,7 +10,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Alla dagboksinlägg listas och händelserna från dagboken visas på en karta så att jägaren får en överblick över var vilt ofta befinner sig.
 
 ### Syfte och mål
-Syftet med projektet var att leverera en implementerad och testad produkt för att få erfarenhet av hur ett projekt i arbetslivet kan gå till väga. Dokumentation, implementation, testning och produktionssättning är hela  
+Syftet med projektet var att leverera en implementerad och testad produkt för att få erfarenhet av hur ett projekt i arbetslivet kan gå till väga. Dokumentation, implementation, testning och produktionssättning är hela kedjan som 
 
 Mål 
 ### Arbetssätt
@@ -32,7 +32,7 @@ All utveckling har skett i Visual Studio Code. I min backend har jag använt mig
 #### Backend
 - Node.js
 - Express.js
-- MongoDB
+- MongoDB med mongoose
 #### Produktionssättning
 - Heroku
 #### Utvecklingsmiljö
@@ -60,8 +60,8 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ5Njk1MTEsMTM2MTkzMDI0MiwxOT
-g0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcsLTIwMjQ3OTg0
-MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNzU1ODU2Mjk5LC
-02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUyOTc5MF19
+eyJoaXN0b3J5IjpbLTk1MTAyMDU3NiwxMzYxOTMwMjQyLDE5OD
+QzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywtMjAyNDc5ODQw
+NywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYyOTksLT
+YwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX0=
 -->
