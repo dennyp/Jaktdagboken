@@ -3,7 +3,7 @@
 **Datum:** 2019-06-08
 
 ## Abstrakt
-
+Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken. Projektets mål, arbetssätt,
 
 -   **Titel**  på ditt projekt,  **författare**  och  **datum**
 -   **Abstrakt:**  Förklara enkelt, kort och koncist vad din rapport handlar om, samt vilka slutsatser du har kommit fram till. Som läsare vill man kunna få en snabb blick för om rapporten är “något för mig”.
@@ -12,5 +12,5 @@
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTUyOTc5MF19
+eyJoaXN0b3J5IjpbMTgzODg3Nzg4OSwyMDUxNTI5NzkwXX0=
 -->
