@@ -1,5 +1,5 @@
 ## Manuella test suites för applikationen
-Applikationen har testats i Chrome, Firefox och Edge. Ingen testning har gjorts i Safari eller Internet Explorer.  
+Applikationen har testats i Chrome, Firefox och Edge. Ingen testning har gjorts i Safari eller Internet Explorer.  Ingen testning har heller skett för mobila plattformar.  
 
 :heavy_check_mark: - betyder att testet lyckats.  
 :x: - betyder att testet misslyckats.
@@ -61,10 +61,10 @@ TC9 | Autentisering "/" | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:he
 TC9.1 | Autentisering Skapa inlägg | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 TC9.2 | Sökvägen kan inte hittas | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMDQ2NDYwLDE3MzE3ODExMDgsMTM4OD
-YwMTkzOSwtMTc0MTgxNTE0MiwtMTE0OTE1MzM4NywtMTA3MDM1
-NTYzMSwtMTY1OTUyNjgyNiwtOTk1Njk2MTA4LDEwNTg0OTQ3Mj
-csMTc2OTc5MzExNCwtMTI4Njc3MDY5NCw4NzUzMjEzMTUsLTE2
-Nzg5NDkzNjUsMzQ0MTc3MTE0LDE3MzYwMTYwMSw2MTgwMTMxMT
-RdfQ==
+eyJoaXN0b3J5IjpbLTEwNjkzMTc3NDEsMTczMTc4MTEwOCwxMz
+g4NjAxOTM5LC0xNzQxODE1MTQyLC0xMTQ5MTUzMzg3LC0xMDcw
+MzU1NjMxLC0xNjU5NTI2ODI2LC05OTU2OTYxMDgsMTA1ODQ5ND
+cyNywxNzY5NzkzMTE0LC0xMjg2NzcwNjk0LDg3NTMyMTMxNSwt
+MTY3ODk0OTM2NSwzNDQxNzcxMTQsMTczNjAxNjAxLDYxODAxMz
+ExNF19
 -->
