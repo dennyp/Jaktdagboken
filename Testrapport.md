@@ -55,11 +55,12 @@ TC8.1| Radera inlägg - Avbryt radering | 2019-06-08 |:heavy_check_mark:|:heavy_
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
 TC9 | Autentisering "/" | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-TC9.1 | Autentisering Skapa inlägg | 2019-06-08 | 
+TC9.1 | Autentisering Skapa inlägg | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+TC9.2 | Sökvägen kan inte hittas | 2019-06-08 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NzU4NzU3LDEzODg2MDE5MzksLTE3ND
-E4MTUxNDIsLTExNDkxNTMzODcsLTEwNzAzNTU2MzEsLTE2NTk1
-MjY4MjYsLTk5NTY5NjEwOCwxMDU4NDk0NzI3LDE3Njk3OTMxMT
-QsLTEyODY3NzA2OTQsODc1MzIxMzE1LC0xNjc4OTQ5MzY1LDM0
-NDE3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
+eyJoaXN0b3J5IjpbMTczMTc4MTEwOCwxMzg4NjAxOTM5LC0xNz
+QxODE1MTQyLC0xMTQ5MTUzMzg3LC0xMDcwMzU1NjMxLC0xNjU5
+NTI2ODI2LC05OTU2OTYxMDgsMTA1ODQ5NDcyNywxNzY5NzkzMT
+E0LC0xMjg2NzcwNjk0LDg3NTMyMTMxNSwtMTY3ODk0OTM2NSwz
+NDQxNzcxMTQsMTczNjAxNjAxLDYxODAxMzExNF19
 -->
