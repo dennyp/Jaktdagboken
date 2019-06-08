@@ -1,6 +1,6 @@
 # Jaktdagboken
-**Författare:** Denny Petersson
-**Datum:** 2019-06-08
+**Författare:** Denny Petersson  
+**Datum:** 2019-06-08  
 
 ## Abstrakt
 Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken. Projektets mål, arbetssätt, teknik 
@@ -28,6 +28,6 @@ React som ramverk tyckte jag var väldigt bra och jag har sett potentialen det h
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMD
-UxNTI5NzkwXX0=
+eyJoaXN0b3J5IjpbLTc1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOT
+M3MzgzNDg5LDIwNTE1Mjk3OTBdfQ==
 -->
