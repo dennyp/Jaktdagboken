@@ -9,6 +9,11 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 
 ## Positiva erfarenheter
 - Planering
+- iterativa arbetssättet
+- prioritering av product backlog
+- risklistan så att man löste alla vitala delarna så snart som möjligt
+- React
+- Handledningarna
 - 
 ## Negativa erfarenheter
 
@@ -20,5 +25,6 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzczODM0ODksMjA1MTUyOTc5MF19
+eyJoaXN0b3J5IjpbMjkzNjk1ODQxLC0xOTM3MzgzNDg5LDIwNT
+E1Mjk3OTBdfQ==
 -->
