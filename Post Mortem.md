@@ -7,7 +7,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 
 ## Inledning och bakgrund
 ### Slutprodukt
-Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Händelserna från dagboken visas på en karta.
+Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Alla dagboksinlägg listas och händelserna från dagboken visas på en karta så att jägaren får en överblick över var vilt ofta befinner sig.
 
 ### Syfte och mål
 Projektets syfte och mål var att utveckla en webbapplikation som hjälper jägare att föra dagbok när de har varit ute och jagat eller spanat efter vilt. 
@@ -61,8 +61,8 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTkzMDI0MiwxOTg0MzY4MjgzLDExMT
-c3Nzk2NjMsNzMzMzYwMzcsLTIwMjQ3OTg0MDcsLTUxNzUzNDcx
-NCwtMTI4MzMyMjg3NywtNzU1ODU2Mjk5LC02MDE1NDk5MzEsLT
-E5MzczODM0ODksMjA1MTUyOTc5MF19
+eyJoaXN0b3J5IjpbMTUxMDQ4MTI3NywxMzYxOTMwMjQyLDE5OD
+QzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywtMjAyNDc5ODQw
+NywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYyOTksLT
+YwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX0=
 -->
