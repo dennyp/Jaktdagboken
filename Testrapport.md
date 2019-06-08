@@ -42,10 +42,16 @@ TC6 | Spara inlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_
 ### Test Suite 7 Visa inlägg
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
-TC6 | Spara inlägg | 2019-06-07 | 
+TC7 | Visa inlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+TC7.1 | Visa inlägg - annan användare | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+
+### Test Suite 8 Radera inlägg
+Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
+--|--|--|:--:|:--:|:--:
+TC8 | Radera inlägg | 2019-06-07 | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk1MjY4MjYsLTk5NTY5NjEwOCwxMD
-U4NDk0NzI3LDE3Njk3OTMxMTQsLTEyODY3NzA2OTQsODc1MzIx
-MzE1LC0xNjc4OTQ5MzY1LDM0NDE3NzExNCwxNzM2MDE2MDEsNj
-E4MDEzMTE0XX0=
+eyJoaXN0b3J5IjpbLTEwNzAzNTU2MzEsLTE2NTk1MjY4MjYsLT
+k5NTY5NjEwOCwxMDU4NDk0NzI3LDE3Njk3OTMxMTQsLTEyODY3
+NzA2OTQsODc1MzIxMzE1LC0xNjc4OTQ5MzY1LDM0NDE3NzExNC
+wxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
 -->
