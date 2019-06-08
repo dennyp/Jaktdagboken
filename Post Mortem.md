@@ -56,11 +56,11 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 ## Sammanfattning
 
 -   **Abstrakt:**  Förklara enkelt, kort och koncist vad din rapport handlar om, samt vilka slutsatser du har kommit fram till. Som läsare vill man kunna få en snabb blick för om rapporten är “något för mig”.
--   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten och projekts syfte/mål,  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
+-   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten  Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzc3OTY2Myw3MzMzNjAzNywtMjAyND
-c5ODQwNywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYy
-OTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX
-0=
+eyJoaXN0b3J5IjpbLTIxMzYxODkzMjEsMTExNzc3OTY2Myw3Mz
+MzNjAzNywtMjAyNDc5ODQwNywtNTE3NTM0NzE0LC0xMjgzMzIy
+ODc3LC03NTU4NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OS
+wyMDUxNTI5NzkwXX0=
 -->
