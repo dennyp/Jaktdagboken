@@ -21,10 +21,7 @@ Efter mycket om och men så valde jag att helt skippa de automatiska testerna so
 
 I product backlog skulle jag kunnat brutit ner vissa krav till ännu mindre bitar. Detta hade gjort att jag varit tvungen att undersöka vad som behöver göras mer i detalj vilket hade lett till att tidsuppskattningarna blivit enklare i och med att jag hade haft mer underlag för dem. Nu fanns det vissa punkter så som ladda upp en bild till databasen som tog fem gånger så lång tid än vad jag uppskattat. Detta för att jag inte visste tillräckligt om hur man går tillväga för att ladda upp bilder i mongoDB innan jag uppskattade tiden.
 
-En annan sak jag haft svårt med är att  jag upptäcker en bu
-
-- buggar som issues/product backlog
-
+En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vill jag åtgärda den omgående. Det hade varit bättre om jag skrivit upp den som en issue och tagit hand om den när det var nödvändigt hellre än a.
 
 ## Sammanfattning
 -   **Titel**  på ditt projekt,  **författare**  och  **datum**
@@ -34,7 +31,7 @@ En annan sak jag haft svårt med är att  jag upptäcker en bu
 -   **Negativa erfarenheter:**  Här beskriver du vad du anser gått dåligt i ditt projekt samt din analys av varför det gick dåligt och hur du ska undvika detta i framtida projekt.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MzgzMzYwLC0xMjgzMzIyODc3LC03NT
-U4NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5
-NzkwXX0=
+eyJoaXN0b3J5IjpbMjExNjA2MDAzMSwtMTI4MzMyMjg3NywtNz
+U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
+OTc5MF19
 -->
