@@ -9,7 +9,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 ### Slutprodukt
 ### Syfte och mål
 ### Arbetssätt
-Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man analyserar . Veckan inleddes med en handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration. 
+Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man analyserar hur det. Veckan inleddes med en handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration. 
 ### Tekniker
 All utveckling har skett i Visual Studio Code. I min backend har jag använt mig utav Node.js med Express.js som serverramverk. För att lagra min data användes MongoDB. React används i klienten tillsammans med React-bootstrap som är motsvarigheten till bootstrap fast allt är byggt i komponenter. För att produktionssätta applikationen valde jag att använda mig av Heroku. Nedan listas alla tekniker.
 #### Frontend
@@ -49,7 +49,7 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten och projekts syfte/mål, arbetssätt, genomförande/teknik och annat som kan vara av intresse att veta kring vad som gjorts och hur det gjorts i projektet. Viktigt är att hålla sig till fakta och inte blanda in egna åsikter. Tänk också på att läsaren av rapporten kan ha en väldigt annorlunda bakgrund och t.ex. inte ha någon vidare erfarenhet av mjukvaruutveckling samtidigt som du inte kan beskriva allt från grunden, referera därför gärna till allmänt tillgängliga källor. Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDI4NDM4OSwtNTE3NTM0NzE0LC0xMj
-gzMzIyODc3LC03NTU4NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4
-MzQ4OSwyMDUxNTI5NzkwXX0=
+eyJoaXN0b3J5IjpbLTIwMjQ3OTg0MDcsLTUxNzUzNDcxNCwtMT
+I4MzMyMjg3NywtNzU1ODU2Mjk5LC02MDE1NDk5MzEsLTE5Mzcz
+ODM0ODksMjA1MTUyOTc5MF19
 -->
