@@ -9,7 +9,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 
 
 ## Tekniker
-Nedan listas de tekniker jag har använt mig utav.
+All utveckling har skett i Visual Studio Code. I min backend har jag använt mig utav Node.js med Express.js som server Nedan listas alla tekniker.
 ### Frontend
 - React
 - React-bootstrap
@@ -47,7 +47,7 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 -   **Inledning och bakgrund:**  Här beskriver du kort och sakligt slutprodukten och projekts syfte/mål, arbetssätt, genomförande/teknik och annat som kan vara av intresse att veta kring vad som gjorts och hur det gjorts i projektet. Viktigt är att hålla sig till fakta och inte blanda in egna åsikter. Tänk också på att läsaren av rapporten kan ha en väldigt annorlunda bakgrund och t.ex. inte ha någon vidare erfarenhet av mjukvaruutveckling samtidigt som du inte kan beskriva allt från grunden, referera därför gärna till allmänt tillgängliga källor. Här passar det också med en eller flera bilder som visar på viktiga delar i produkten.
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzM3ODI1OSwtMTI4MzMyMjg3NywtNz
-U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
-OTc5MF19
+eyJoaXN0b3J5IjpbLTEwOTQyODU4NjIsLTEyODMzMjI4NzcsLT
+c1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1
+Mjk3OTBdfQ==
 -->
