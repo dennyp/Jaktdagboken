@@ -37,9 +37,10 @@ TC5.1 | Ta bort bild från dagboksinlägg | 2019-06-07 | :heavy_check_mark:|:hea
 ### Test Suite 6 
 Test Case| Beskrivning | Körd  | Chrome | Firefox | Edge
 --|--|--|:--:|:--:|:--:
-TC6 | Spara inlägg | 2019-06-07 | 
+TC6 | Spara inlägg | 2019-06-07 | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTY5NjEwOCwxMDU4NDk0NzI3LDE3Nj
-k3OTMxMTQsLTEyODY3NzA2OTQsODc1MzIxMzE1LC0xNjc4OTQ5
-MzY1LDM0NDE3NzExNCwxNzM2MDE2MDEsNjE4MDEzMTE0XX0=
+eyJoaXN0b3J5IjpbMjA2MzgyNjAyNCwtOTk1Njk2MTA4LDEwNT
+g0OTQ3MjcsMTc2OTc5MzExNCwtMTI4Njc3MDY5NCw4NzUzMjEz
+MTUsLTE2Nzg5NDkzNjUsMzQ0MTc3MTE0LDE3MzYwMTYwMSw2MT
+gwMTMxMTRdfQ==
 -->
