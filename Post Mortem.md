@@ -3,9 +3,8 @@
 **Datum:** 2019-06-08  
 
 ## Abstrakt
-Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken, ett projekt som pågått under tio veckor. Projektets syfte, arbetssätt samt teknik tas upp. Positiva erfarenheter så som kravlista och det iterativa arbetssättet diskuteras, men även negativa erfarenheter så som den uteblivna automatiska testningen behandlas.
+Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken, ett projekt som pågått under tio veckor. Projektets syfte, arbetssätt samt teknik tas upp. Positiva erfarenheter så som kravlista och det iterativa arbetssättet diskuteras, men även negativa erfarenheter så som den uteblivna automatiska testningen tas upp.
 
--   **Abstrakt:**  Förklara enkelt, kort och koncist vad din rapport handlar om, samt vilka slutsatser du har kommit fram till. Som läsare vill man kunna få en snabb blick för om rapporten är “något för mig”.
 
 ## Inledning och bakgrund
 ### Slutprodukt
@@ -66,10 +65,10 @@ Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. 
 
 I det stora hela är jag nöjd med projektet. Dock hade jag fokuserat mer på att få till automatisk testning för backend tidigt i projektet och kontinuerligt skrivit fler tester. Jag hade också tänkt lite mer på användarvänligheten genom att implementera någon form av alert så att användaren får feedback genom denna t. ex. då inlägg sparas eller då något går fel. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODk5MzM1MSwtMTA4Nzk3NTk5MiwtMT
-c0ODUzNDkxMSwtMTQxNjkzMDU5MiwxMTc2MzQxNDI2LDExMzI4
-MDYxMDUsNjE3NTI0MzMyLDEzNjE5MzAyNDIsMTk4NDM2ODI4My
-wxMTE3Nzc5NjYzLDczMzM2MDM3LC0yMDI0Nzk4NDA3LC01MTc1
-MzQ3MTQsLTEyODMzMjI4NzcsLTc1NTg1NjI5OSwtNjAxNTQ5OT
-MxLC0xOTM3MzgzNDg5LDIwNTE1Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NDIxOTY2ODEsLTEwODc5NzU5OTIsLT
+E3NDg1MzQ5MTEsLTE0MTY5MzA1OTIsMTE3NjM0MTQyNiwxMTMy
+ODA2MTA1LDYxNzUyNDMzMiwxMzYxOTMwMjQyLDE5ODQzNjgyOD
+MsMTExNzc3OTY2Myw3MzMzNjAzNywtMjAyNDc5ODQwNywtNTE3
+NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYyOTksLTYwMTU0OT
+kzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX0=
 -->
