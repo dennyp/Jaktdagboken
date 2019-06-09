@@ -58,12 +58,14 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 ## Sammanfattning
 I det stora hela tycker jag att projektet har gått bra. Att ha gruppmötena varje vecka har varit till hjälp genom att man har kunnat diskutera om man fastnat på något. De har också pushat en att ha något att leverera varje vecka och därigenom förbättrat disciplinen. Tidsmässigt så tycker jag att jag legat bra till under större delen av projektet. Det var i början jag hade svårt att avsätta tillräcklig tid men det har jag tagit igen under projektets gång. 
 
+Alla krav
+
 
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ1NzAyNTUsNjE3NTI0MzMyLDEzNj
-E5MzAyNDIsMTk4NDM2ODI4MywxMTE3Nzc5NjYzLDczMzM2MDM3
-LC0yMDI0Nzk4NDA3LC01MTc1MzQ3MTQsLTEyODMzMjI4NzcsLT
-c1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1
-Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTEzMjgwNjEwNSw2MTc1MjQzMzIsMTM2MT
+kzMDI0MiwxOTg0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcs
+LTIwMjQ3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNz
+U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
+OTc5MF19
 -->
