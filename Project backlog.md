@@ -1,4 +1,6 @@
 Nedan tabell visar vilka krav som finns i projektet. Krav med prioritet 1 måste implementeras, 2 om tid finns över. TS i kolumnen för Test står för Test Suite.
+  
+Krav 7 Redigera inlägg med prio 1 har jag diskuterat under de sista mötena om jag hinner genomföra. Jag implementerade en fungerande backend till detta men frontenden kommer ta för lång tid så jag bestämde mig för att prioritera ner denna funktionaliteten. Detta krav är dock prioriterat först vid fortsatt utveckling.  
 
 ID | Namn | Typ | Status | Beskrivning | Test | Prio | Beroende
 --- | --- | --- | --- | --- | --- | :---: | :---:
@@ -35,5 +37,5 @@ ID | Namn | Typ | Status | Beskrivning | Test | Prio | Beroende
 9 | Visa alla  inlägg | Funktionellt | Klar | Som användare vill jag se alla mina inlägg då jag loggat in | [TS7](https://github.com/1dv430/dp222gj-project/wiki/Test-Suite-7-Visa-inl%C3%A4gg) | 1 |  2
 10 | Radera inlägg | Funktionellt | Klar | Som användare vill jag kunna radera mina inlägg | [TS8](https://github.com/1dv430/dp222gj-project/wiki/Test-Suite-8-Radera-inl%C3%A4gg) | 1 | 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Nzg1NjExOF19
+eyJoaXN0b3J5IjpbLTE2MTE0ODYyMjYsLTk0Nzg1NjExOF19
 -->
