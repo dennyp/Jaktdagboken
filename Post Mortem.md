@@ -56,14 +56,14 @@ I product backlog skulle jag kunnat brutit ner vissa krav till ännu mindre bita
 En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vill jag åtgärda den omgående. Det hade varit bättre om jag skrivit upp den som en issue och tagit hand om den när det var nödvändigt hellre än att försöka lösa den direkt.
 
 ## Sammanfattning
-I det stora hela tycker jag att projektet har gått bra. Att ha gruppmötena varje vecka har varit till hjälp genom att man har kunnat diskutera om man fastnat på något. De har också fungerat som 
+I det stora hela tycker jag att projektet har gått bra. Att ha gruppmötena varje vecka har varit till hjälp genom att man har kunnat diskutera om man fastnat på något. De har också pushat en att ha något att leverera varje vecka och därigenom förbättrat disciplinen.
 
 
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDQ1MzI2Miw2MTc1MjQzMzIsMTM2MT
-kzMDI0MiwxOTg0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcs
-LTIwMjQ3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNz
-U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
-OTc5MF19
+eyJoaXN0b3J5IjpbLTE2ODU1Nzg5MjEsNjE3NTI0MzMyLDEzNj
+E5MzAyNDIsMTk4NDM2ODI4MywxMTE3Nzc5NjYzLDczMzM2MDM3
+LC0yMDI0Nzk4NDA3LC01MTc1MzQ3MTQsLTEyODMzMjI4NzcsLT
+c1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1
+Mjk3OTBdfQ==
 -->
