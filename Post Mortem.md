@@ -60,12 +60,12 @@ I det stora hela tycker jag att projektet har gått bra. Att ha gruppmötena var
 
 Alla krav med prio 1 har implementerats sånär som på möjligheten att redigera inlägg som jag fick prioritera ner i slutet av projektet. Det har dock påbörjats och är det första som kommer att implementeras vid fortsatt utveckling av projektet.
 
-Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. ex. pagination för inläggen, möjlighet att ange väderförh
+Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. ex. pagination för inläggen, möjlighet att ange väderförhållanden, statistik, användarprofil, markörer på kartan innehåller mer information samt länkar till dagboksinlägget som innehåller händelsen
 
 
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzODA1NzgyLDExMzI4MDYxMDUsNjE3NT
+eyJoaXN0b3J5IjpbNTc4NDYwMzc0LDExMzI4MDYxMDUsNjE3NT
 I0MzMyLDEzNjE5MzAyNDIsMTk4NDM2ODI4MywxMTE3Nzc5NjYz
 LDczMzM2MDM3LC0yMDI0Nzk4NDA3LC01MTc1MzQ3MTQsLTEyOD
 MzMjI4NzcsLTc1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOTM3Mzgz
