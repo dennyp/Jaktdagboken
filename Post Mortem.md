@@ -58,7 +58,7 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 ## Sammanfattning
 I det stora hela tycker jag att projektet har gått bra. Att ha gruppmötena varje vecka har varit till hjälp genom att man har kunnat diskutera om man fastnat på något. De har också pushat en att ha något att leverera varje vecka och därigenom förbättrat disciplinen. Tidsmässigt så tycker jag att jag legat bra till under större delen av projektet. Det var i början jag hade svårt att avsätta tillräcklig tid men det har jag tagit igen under projektets gång. 
 
-Jag har med detta projektet haft möjlighet att öka min förståelse för hela stacken. Att lära sig React har också varit mycket för att kunna bära med sig i portföljen framöver.
+Jag har med detta projektet haft möjlighet att öka min förståelse för hela stacken. Att lära mig React är också mycket bra för att kunna bära med sig i portföljen framöver.
 
 Alla krav med prio 1 har implementerats sånär som på möjligheten att redigera inlägg som jag fick prioritera ner i slutet av projektet. Det har dock påbörjats och är det första som kommer att implementeras vid fortsatt utveckling av projektet.
 
@@ -67,7 +67,7 @@ Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. 
 
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTU3ODEzMywxMTMyODA2MTA1LDYxNz
+eyJoaXN0b3J5IjpbLTUzMzYzNzQ1MSwxMTMyODA2MTA1LDYxNz
 UyNDMzMiwxMzYxOTMwMjQyLDE5ODQzNjgyODMsMTExNzc3OTY2
 Myw3MzMzNjAzNywtMjAyNDc5ODQwNywtNTE3NTM0NzE0LC0xMj
 gzMzIyODc3LC03NTU4NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4
