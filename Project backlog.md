@@ -32,10 +32,10 @@ ID | Namn | Typ | Status | Beskrivning | Test | Prio | Beroende
 6.2 | Inloggning | Funktionellt | Klar | Som användare vill jag kunna logga in i applikationen så att jag kan komma åt mina sparade inlägg | [TS2](https://github.com/1dv430/dp222gj-project/wiki/Test-suite-2---Anv%C3%A4ndarinloggning) | 1 | 6
 6.3 | Authentication | Funktionellt | Klar | Man måste vara authenticerad för att se sina inlägg, komma åt profil etc. | [TS2](https://github.com/1dv430/dp222gj-project/wiki/Test-suite-2---Anv%C3%A4ndarinloggning) | 1 | 6
 6.4 | Utloggning | Funktionellt | Klar | Som användare ska man kunna logga ut från sitt konto. | [TS3](https://github.com/1dv430/dp222gj-project/wiki/Test-Suite-3---Utloggning) | 1 | 6 
-7 | Redigera inlägg | Funktionellt | - | Som användare vill jag kunna redigera ett redan skapat inlägg | - | 1 | -
+7 | Redigera inlägg | Funktionellt | Påbörjat | Som användare vill jag kunna redigera ett redan skapat inlägg | - | 2 | -
 8 | Profil | Funktionellt | - | Som användare vill jag ha en profil där jag kan ange inställningar så som startplatsens koordinater på kartan | - | 2 | -
 9 | Visa alla  inlägg | Funktionellt | Klar | Som användare vill jag se alla mina inlägg då jag loggat in | [TS7](https://github.com/1dv430/dp222gj-project/wiki/Test-Suite-7-Visa-inl%C3%A4gg) | 1 |  2
 10 | Radera inlägg | Funktionellt | Klar | Som användare vill jag kunna radera mina inlägg | [TS8](https://github.com/1dv430/dp222gj-project/wiki/Test-Suite-8-Radera-inl%C3%A4gg) | 1 | 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE0ODYyMjYsLTk0Nzg1NjExOF19
+eyJoaXN0b3J5IjpbLTE0NTU5MDE1MiwtOTQ3ODU2MTE4XX0=
 -->
