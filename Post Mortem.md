@@ -62,15 +62,14 @@ Jag har med detta projektet haft möjlighet att öka min förståelse för hela 
 
 Alla krav med prio 1 har implementerats sånär som på möjligheten att redigera inlägg som jag fick prioritera ner i slutet av projektet. Det har dock påbörjats och är det första som kommer att implementeras vid fortsatt utveckling av projektet.
 
-Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. ex. pagination för inläggen, möjlighet att ange väderförhållanden, statistik, användarprofil, markörer på kartan innehåller mer information, har andra symboler samt länkar till dagboksinlägget som innehåller händelsen med mera.
+Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. ex. pagination för inläggen, möjlighet att ange väderförhållanden, statistik, användarprofil, markörer på kartan kan innehålla mer information, ha andra symboler samt länkar till dagboksinlägget som innehåller händelsen med mera.
 
-
--   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
+I det stora hela är jag nöjd med projektet. Dock hade jag fokuserat me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTkzMjY5OCwtMTQxNjkzMDU5MiwxMT
-c2MzQxNDI2LDExMzI4MDYxMDUsNjE3NTI0MzMyLDEzNjE5MzAy
-NDIsMTk4NDM2ODI4MywxMTE3Nzc5NjYzLDczMzM2MDM3LC0yMD
-I0Nzk4NDA3LC01MTc1MzQ3MTQsLTEyODMzMjI4NzcsLTc1NTg1
-NjI5OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1Mjk3OT
-BdfQ==
+eyJoaXN0b3J5IjpbLTMyNjk5NTU5LC0xNDE2OTMwNTkyLDExNz
+YzNDE0MjYsMTEzMjgwNjEwNSw2MTc1MjQzMzIsMTM2MTkzMDI0
+MiwxOTg0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcsLTIwMj
+Q3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNzU1ODU2
+Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUyOTc5MF
+19
 -->
