@@ -56,14 +56,14 @@ I product backlog skulle jag kunnat brutit ner vissa krav till ännu mindre bita
 En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vill jag åtgärda den omgående. Det hade varit bättre om jag skrivit upp den som en issue och tagit hand om den när det var nödvändigt hellre än att försöka lösa den direkt.
 
 ## Sammanfattning
-
+I det stora hela tycker jag att projektet har gått bra. 
 
 
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTY0NDY4Myw2MTc1MjQzMzIsMTM2MT
-kzMDI0MiwxOTg0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcs
-LTIwMjQ3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNz
-U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
-OTc5MF19
+eyJoaXN0b3J5IjpbNDI5MjgyMzU3LDYxNzUyNDMzMiwxMzYxOT
+MwMjQyLDE5ODQzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywt
+MjAyNDc5ODQwNywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NT
+U4NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5
+NzkwXX0=
 -->
