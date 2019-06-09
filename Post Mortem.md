@@ -12,7 +12,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Alla dagboksinlägg listas och händelserna från dagboken visas på en karta så att jägaren får en överblick över var vilt ofta befinner sig.
 
 ### Syfte
-Syftet med projektet var att leverera en implementerad och testad produkt för att få erfarenhet av hur ett projekt i arbetslivet kan gå till väga. Alla områden i ett verkligt projekt berörs genom kontinuerlig dokumentation, implementation, testning och produktionssättning.
+Syftet med projektet var att leverera en implementerad och testad produkt för att få erfarenhet av hur ett projekt i arbetslivet kan gå till väga. Alla områden i ett verkligt projekt berörs genom kontinuerlig dokumentation, planering, implementation, testning och produktionssättning. Dessutom fick man möjligh
 
 ### Arbetssätt
 Under projektet har en iterativ arbetsprocess följts med sprintar på en vecka. Detta fungerar genom att man, till sin sprint backlog, väljer ut de krav eller uppgifter som ska göras under veckan och uppskattar tiden det tar att göra dessa. En analys av föregående vecka görs också i sprinten där man skrev en kort text om vad som gick bra och vad som gick mindre bra. Veckan inleddes med ett handledarmöte där vi gick igenom vad var och en i gruppen hade gjort under föregående iteration och vad vi skulle göra under nuvarande iteration.  
@@ -61,8 +61,9 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NTI0MzMyLDEzNjE5MzAyNDIsMTk4ND
-M2ODI4MywxMTE3Nzc5NjYzLDczMzM2MDM3LC0yMDI0Nzk4NDA3
-LC01MTc1MzQ3MTQsLTEyODMzMjI4NzcsLTc1NTg1NjI5OSwtNj
-AxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTc2MDc5Mjg1OCw2MTc1MjQzMzIsMTM2MT
+kzMDI0MiwxOTg0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcs
+LTIwMjQ3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNz
+U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
+OTc5MF19
 -->
