@@ -64,12 +64,12 @@ Alla krav med prio 1 har implementerats sånär som på möjligheten att rediger
 
 Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. ex. pagination för inläggen, möjlighet att ange väderförhållanden, statistik, användarprofil, markörer på kartan kan innehålla mer information, ha andra symboler samt länkar till dagboksinlägget som innehåller händelsen med mera.
 
-I det stora hela är jag nöjd med projektet. Dock hade jag fokuserat mer på att få till automatisk testning för backend tidigt i projektet och kontinuerligt skrivit fler tester. Jag hade också tänkt lite mer på användarvänligheten genom att implementera någon form av alert så att användaren få
+I det stora hela är jag nöjd med projektet. Dock hade jag fokuserat mer på att få till automatisk testning för backend tidigt i projektet och kontinuerligt skrivit fler tester. Jag hade också tänkt lite mer på användarvänligheten genom att implementera någon form av alert så att användaren får feedback genom denna t. ex. då inlägg sparas eller då något går fel. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4ODUyNTU2LC0xNDE2OTMwNTkyLDExNz
-YzNDE0MjYsMTEzMjgwNjEwNSw2MTc1MjQzMzIsMTM2MTkzMDI0
-MiwxOTg0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcsLTIwMj
-Q3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNzU1ODU2
-Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUyOTc5MF
-19
+eyJoaXN0b3J5IjpbLTE3NDg1MzQ5MTEsLTE0MTY5MzA1OTIsMT
+E3NjM0MTQyNiwxMTMyODA2MTA1LDYxNzUyNDMzMiwxMzYxOTMw
+MjQyLDE5ODQzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywtMj
+AyNDc5ODQwNywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4
+NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5Nz
+kwXX0=
 -->
