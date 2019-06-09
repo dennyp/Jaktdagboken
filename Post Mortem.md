@@ -9,7 +9,7 @@ Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jakt
 
 ## Inledning och bakgrund
 ### Slutprodukt
-Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Alla dagboksinlägg listas och händelserna från dagboken visas på en karta så att jägaren får en överblick över var vilt ofta befinner sig.
+Jaktdagboken riktar sig till jägare som vill föra dagbok över sina äventyr. Jägaren skapar ett konto för att kunna skriva sina dagboksinlägg. Till inläggen kan bilder och händelser läggas till från dagen som rapporteras. Alla jägarens dagboksinlägg listas och händelserna från dagboken visas på en karta så att en överblick över var vilt ofta befinner sig skapas.
 
 ### Syfte
 Syftet med projektet var att leverera en implementerad och testad produkt för att få erfarenhet av hur ett projekt i arbetslivet kan gå till väga. Alla områden i ett verkligt projekt berörs genom kontinuerlig dokumentation, planering, implementation, testning och produktionssättning. Dessutom fick man möjlighet att inhämta ny kunskap i ett område man själv fick välja.
@@ -22,7 +22,7 @@ Projektet var uppdelat i fyra faser; inception, elaboration, construction och tr
 200 timmar under tio veckor har avsatts till projektet. 
 
 ### Tekniker
-All utveckling har skett i Visual Studio Code. I min backend har jag använt mig utav Node.js med Express.js som serverramverk. För att lagra min data användes MongoDB. React används i klienten tillsammans med React-bootstrap som är motsvarigheten till bootstrap fast allt är byggt i komponenter. För att produktionssätta applikationen valde jag att använda mig av Heroku. Nedan listas alla tekniker.
+All utveckling har skett i Visual Studio Code. I backend har jag använt mig utav Node.js med Express.js som serverramverk. För att lagra data användes MongoDB. React används i klienten tillsammans med React-bootstrap som är motsvarigheten till bootstrap fast allt är byggt i komponenter. För att produktionssätta applikationen valde jag att använda mig av Heroku. Nedan listas alla tekniker.
 
 #### Frontend
 - React
@@ -61,9 +61,9 @@ En annan sak jag haft svårt med är att ofta när jag upptäcker en bugg så vi
 
 -   **Sammanfattning:**  Här knyter du ihop din rapport och drar slutsatser av dina erfarenheter och lärdomar. Blicka framåt och se utvecklingspotential hos både dig själv och din produkt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ3ODIyODgsNjE3NTI0MzMyLDEzNj
-E5MzAyNDIsMTk4NDM2ODI4MywxMTE3Nzc5NjYzLDczMzM2MDM3
-LC0yMDI0Nzk4NDA3LC01MTc1MzQ3MTQsLTEyODMzMjI4NzcsLT
-c1NTg1NjI5OSwtNjAxNTQ5OTMxLC0xOTM3MzgzNDg5LDIwNTE1
-Mjk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTc3MTY0NDY4Myw2MTc1MjQzMzIsMTM2MT
+kzMDI0MiwxOTg0MzY4MjgzLDExMTc3Nzk2NjMsNzMzMzYwMzcs
+LTIwMjQ3OTg0MDcsLTUxNzUzNDcxNCwtMTI4MzMyMjg3NywtNz
+U1ODU2Mjk5LC02MDE1NDk5MzEsLTE5MzczODM0ODksMjA1MTUy
+OTc5MF19
 -->
