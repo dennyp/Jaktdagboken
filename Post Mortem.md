@@ -3,7 +3,7 @@
 **Datum:** 2019-06-08  
 
 ## Abstrakt
-Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken. Projektets mål, arbetssätt, teknik samt positiva och negativa erfarenheter 
+Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken. Projektets syfte, arbetssätt, teknik, positiva och negativa erfarenheter samt 
 
 -   **Abstrakt:**  Förklara enkelt, kort och koncist vad din rapport handlar om, samt vilka slutsatser du har kommit fram till. Som läsare vill man kunna få en snabb blick för om rapporten är “något för mig”.
 
@@ -66,10 +66,10 @@ Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. 
 
 I det stora hela är jag nöjd med projektet. Dock hade jag fokuserat mer på att få till automatisk testning för backend tidigt i projektet och kontinuerligt skrivit fler tester. Jag hade också tänkt lite mer på användarvänligheten genom att implementera någon form av alert så att användaren får feedback genom denna t. ex. då inlägg sparas eller då något går fel. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg1MzQ5MTEsLTE0MTY5MzA1OTIsMT
-E3NjM0MTQyNiwxMTMyODA2MTA1LDYxNzUyNDMzMiwxMzYxOTMw
-MjQyLDE5ODQzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywtMj
-AyNDc5ODQwNywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4
-NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5Nz
-kwXX0=
+eyJoaXN0b3J5IjpbLTEwODc5NzU5OTIsLTE3NDg1MzQ5MTEsLT
+E0MTY5MzA1OTIsMTE3NjM0MTQyNiwxMTMyODA2MTA1LDYxNzUy
+NDMzMiwxMzYxOTMwMjQyLDE5ODQzNjgyODMsMTExNzc3OTY2My
+w3MzMzNjAzNywtMjAyNDc5ODQwNywtNTE3NTM0NzE0LC0xMjgz
+MzIyODc3LC03NTU4NTYyOTksLTYwMTU0OTkzMSwtMTkzNzM4Mz
+Q4OSwyMDUxNTI5NzkwXX0=
 -->
