@@ -3,7 +3,7 @@
 **Datum:** 2019-06-08  
 
 ## Abstrakt
-Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken, ett projekt som pågått under tio veckor. Projektets syfte, arbetssätt samt teknik tas upp. Positiva erfarenheter så som kravlista och det iterativa arbetssättet diskuteras, men även negativa erfarenheter så som den uteblivna automatiska testningen tas upp. Till sist avslutas rapporten med en sammanfattning som innehåller utvecklingspotentialen för applikationen samt en diskussion över vad som gjorts annorlunda.  
+Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken, ett projekt som pågått under tio veckor. Projektets syfte, arbetssätt samt teknik tas upp. Positiva erfarenheter så som kravlista och det iterativa arbetssättet diskuteras, men även negativa erfarenheter så som den uteblivna automatiska testningen tas upp. Till sist avslutas rapporten med en sammanfattning som innehåller utvecklingspotentialen för applikationen samt en diskussion över vad som skulle kunna göras annorlunda.  
 
 
 ## Inledning och bakgrund
@@ -65,10 +65,10 @@ Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. 
 
 I det stora hela är jag nöjd med projektet. Dock hade jag fokuserat mer på att få till automatisk testning för backend tidigt i projektet och kontinuerligt skrivit fler tester. Jag hade också tänkt lite mer på användarvänligheten genom att implementera någon form av alert så att användaren får feedback genom denna t. ex. då inlägg sparas eller då något går fel. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MjM1ODU2LC0xMDg3OTc1OTkyLC0xNz
-Q4NTM0OTExLC0xNDE2OTMwNTkyLDExNzYzNDE0MjYsMTEzMjgw
-NjEwNSw2MTc1MjQzMzIsMTM2MTkzMDI0MiwxOTg0MzY4MjgzLD
-ExMTc3Nzk2NjMsNzMzMzYwMzcsLTIwMjQ3OTg0MDcsLTUxNzUz
-NDcxNCwtMTI4MzMyMjg3NywtNzU1ODU2Mjk5LC02MDE1NDk5Mz
-EsLTE5MzczODM0ODksMjA1MTUyOTc5MF19
+eyJoaXN0b3J5IjpbNzQyODgwMSw2MjkyMzU4NTYsLTEwODc5Nz
+U5OTIsLTE3NDg1MzQ5MTEsLTE0MTY5MzA1OTIsMTE3NjM0MTQy
+NiwxMTMyODA2MTA1LDYxNzUyNDMzMiwxMzYxOTMwMjQyLDE5OD
+QzNjgyODMsMTExNzc3OTY2Myw3MzMzNjAzNywtMjAyNDc5ODQw
+NywtNTE3NTM0NzE0LC0xMjgzMzIyODc3LC03NTU4NTYyOTksLT
+YwMTU0OTkzMSwtMTkzNzM4MzQ4OSwyMDUxNTI5NzkwXX0=
 -->
