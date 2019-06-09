@@ -3,7 +3,7 @@
 **Datum:** 2019-06-08  
 
 ## Abstrakt
-Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken, ett projekt som pågått under tio veckor. Projektets syfte, arbetssätt samt teknik tas upp. Positiva erfarenheter så som kravlista och det iterativa arbetssättet.
+Denna rapport behandlar utvecklingsförfarandet gällande webbapplikationen Jaktdagboken, ett projekt som pågått under tio veckor. Projektets syfte, arbetssätt samt teknik tas upp. Positiva erfarenheter så som kravlista och det iterativa arbetssättet diskuteras, men även negativa erfarenheter så som den uteblivna automatiska testningen behandlas.
 
 -   **Abstrakt:**  Förklara enkelt, kort och koncist vad din rapport handlar om, samt vilka slutsatser du har kommit fram till. Som läsare vill man kunna få en snabb blick för om rapporten är “något för mig”.
 
@@ -66,7 +66,7 @@ Det finns mycket ytterligare funktionalitet som kan implementeras framöver. T. 
 
 I det stora hela är jag nöjd med projektet. Dock hade jag fokuserat mer på att få till automatisk testning för backend tidigt i projektet och kontinuerligt skrivit fler tester. Jag hade också tänkt lite mer på användarvänligheten genom att implementera någon form av alert så att användaren får feedback genom denna t. ex. då inlägg sparas eller då något går fel. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Nzc2NDY5MywtMTA4Nzk3NTk5MiwtMT
+eyJoaXN0b3J5IjpbMjAxODk5MzM1MSwtMTA4Nzk3NTk5MiwtMT
 c0ODUzNDkxMSwtMTQxNjkzMDU5MiwxMTc2MzQxNDI2LDExMzI4
 MDYxMDUsNjE3NTI0MzMyLDEzNjE5MzAyNDIsMTk4NDM2ODI4My
 wxMTE3Nzc5NjYzLDczMzM2MDM3LC0yMDI0Nzk4NDA3LC01MTc1
