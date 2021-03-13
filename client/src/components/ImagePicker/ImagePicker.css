@@ -1,0 +1,15 @@
+.remove-image-button {
+  background: none;
+  border: none;
+  padding-left: 25px;
+  padding-right: 0px;
+}
+
+.image-input {
+  padding: 0px 0px 10px 0px;
+}
+
+.image-label {
+  padding-top: 10px;
+  display: flex;
+}

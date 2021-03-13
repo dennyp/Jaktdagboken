@@ -1,0 +1,8 @@
+h6 {
+  margin-left: 15px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: flex-start;
+}
