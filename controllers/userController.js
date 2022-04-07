@@ -1,7 +1,6 @@
 import { User } from '../models/User.js'
 import jwt from 'jsonwebtoken'
-
-const userController = {}
+import createError from 'http-errors'
 
 const validateEmail = (email) => {
   const re = /\S+@\S+\.\S+/
@@ -9,37 +8,29 @@ const validateEmail = (email) => {
 }
 
 export class UserController {
-  async loginPost(req, res, next) {
+  async login(req, res, next) {
     try {
       const { email, password } = req.body
 
       if (!email || !password) {
-        return res
-          .status(400)
-          .json({ message: 'You must enter an email and a password.' })
+        return next(createError(400, 'You must enter an email and a password'))
       }
 
       if (!validateEmail(email)) {
-        return res
-          .status(400)
-          .json({ message: 'The email address is incorrectly formatted.' })
+        return next(createError(400, 'Invalid email'))
       }
 
-      const user = await User.findOne({ email })
+      const user = await User.authenticate(email, password)
 
       if (!user) {
-        return res.status(403).json({ message: 'Invalid login' })
-      }
-
-      const valid = await user.comparePassword(password)
-
-      if (!valid) {
-        return res.status(403).json({ message: 'Invalid login' })
+        return next(createError(401, 'Invalid login'))
       }
 
       const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
         expiresIn: '1h',
       })
+
+      console.log(token)
 
       res
         .cookie('jdbjwt', token, {
@@ -49,20 +40,11 @@ export class UserController {
         })
         .json({ message: 'Success' })
     } catch (error) {
-      res.status(500).json({ message: 'Server error' })
+      next(createError(error))
     }
   }
 
-  async logout(req, res, next) {
-    try {
-      // TODO: Check if cookie exists first?
-      res.clearCookie('jdbjwt').json({ message: 'Success' })
-    } catch {
-      res.status(500).json({ message: 'Server error' })
-    }
-  }
-
-  async registerPost(req, res, next) {
+  async register(req, res, next) {
     try {
       const { email, password, name } = req.body
 
@@ -93,8 +75,17 @@ export class UserController {
       await new User({ email, password, name }).save()
 
       res.status(200).json({ message: 'Success' })
-    } catch {
-      res.status(500).json({ message: 'Server error' })
+    } catch (error) {
+      next(createError(500))
+    }
+  }
+
+  async logout(req, res, next) {
+    try {
+      // TODO: Check if cookie exists first?
+      res.clearCookie('jdbjwt').json({ message: 'Success' })
+    } catch (error) {
+      next(createError(500))
     }
   }
 }
