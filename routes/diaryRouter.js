@@ -1,41 +1,41 @@
-/**
- * Router for diary.
- *
- * @author Denny Petersson
- * @version 1.0.0
- */
+import express from 'express'
+import { DiaryController } from '../controllers/diaryController.js'
+import { Authentication } from '../middleware/authentication.js'
+import upload from '../utils/storage.js'
 
-'use strict'
+export const router = express.Router()
 
-const express = require('express')
-const router = express.Router()
-const controller = require('../controllers/diaryController')
-const authentication = require('../middleware/authentication')
-const multer = require('multer')
-const storage = require('../utils/storage')
-const upload = multer({ storage })
+const controller = new DiaryController()
 
 // GET user's diary posts
-router.get('/', authentication, controller.getDiaryPosts)
+router.get('/', Authentication, (req, res, next) =>
+  controller.getDiaryPosts(req, res, next)
+)
 
 // Get a single diary post by its id
-router.get('/:id', authentication, controller.getDiaryPost)
+router.get('/:id', Authentication, (req, res, next) =>
+  controller.getDiaryPost(req, res, next)
+)
 
 // POST a new diary post
-router.post('/', authentication, controller.saveDiaryPost)
+router.post('/', Authentication, (req, res, next) =>
+  controller.saveDiaryPost(req, res, next)
+)
 
 // DELETE a diary post
-router.delete('/delete/:id', authentication, controller.deleteDiaryPost)
+router.delete('/delete/:id', Authentication, (req, res, next) =>
+  controller.deleteDiaryPost(req, res, next)
+)
 
 // GET image
-router.get('/image/:id', authentication, controller.getImage)
+router.get('/image/:id', Authentication, (req, res, next) =>
+  controller.getImage(req, res, next)
+)
 
 // POST images
 router.post(
   '/upload',
-  authentication,
+  Authentication,
   upload.array('images', 10),
-  controller.saveImages
+  (req, res, next) => controller.saveImages(req, res, next)
 )
-
-module.exports = router

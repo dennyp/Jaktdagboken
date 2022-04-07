@@ -1,25 +1,26 @@
-'use strict'
-
-const express = require('express')
-const helmet = require('helmet')
-const path = require('path')
-const app = express()
-const mongoose = require('mongoose')
-const cookieParser = require('cookie-parser')
-require('dotenv').config()
-const authentication = require('./middleware/authentication')
-const Grid = require('gridfs-stream')
+import express from 'express'
+import helmet from 'helmet'
+import path from 'path'
+import { fileURLToPath } from 'url'
+import mongoose from 'mongoose'
+import cookieParser from 'cookie-parser'
+import Grid from 'gridfs-stream'
+import { Authentication } from './middleware/authentication.js'
+import 'dotenv/config'
+import { router } from './routes/homeRouter.js'
 
 const PORT = process.env.PORT || 5000
+
+const app = express()
 
 // Connection string to MongoDb
 const CONNECTION_STRING = `${process.env.DB_URL}`
 
 // Connect to database
-mongoose.connect(
-  CONNECTION_STRING,
-  { useNewUrlParser: true, useCreateIndex: true }
-)
+mongoose.connect(CONNECTION_STRING, {
+  useNewUrlParser: true,
+  useCreateIndex: true,
+})
 
 // Mongoose connection
 const conn = mongoose.connection
@@ -27,7 +28,7 @@ Grid.mongo = mongoose.mongo
 conn.on('error', console.error.bind(console, 'connection error:'))
 
 let gfs
-conn.once('open', function () {
+conn.once('open', function() {
   // Init stream
   gfs = Grid(conn.db)
   gfs.collection('images')
@@ -43,17 +44,20 @@ app.use(
         "'self'",
         'stackpath.bootstrapcdn.com',
         'fonts.googleapis.com',
-        "'unsafe-inline'"
+        "'unsafe-inline'",
       ],
       fontSrc: ["'self'", 'fonts.googleapis.com', 'fonts.gstatic.com'],
       imgSrc: ["'self'", 'maps.googleapis.com', 'maps.gstatic.com', 'data:'],
-      scriptSrc: ["'self'", 'maps.googleapis.com', "'unsafe-inline'"]
-    }
+      scriptSrc: ["'self'", 'maps.googleapis.com', "'unsafe-inline'"],
+    },
   })
 )
 
 app.use(helmet())
 
+// Serve files from the public folder
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 app.use(express.static(path.join(__dirname, 'client', 'build')))
 
 app.use(express.json())
@@ -66,16 +70,6 @@ app.use((req, res, next) => {
   next()
 })
 
-app.use('/api/getAnimals', require('./routes/getAnimalsRouter'))
-app.use('/api/user', require('./routes/userRouter'))
-app.use('/api/diary', require('./routes/diaryRouter'))
-
-app.get('/api/isAuthenticated', authentication, (req, res, next) => {
-  try {
-    res.status(200).json({ message: 'Authenticated' })
-  } catch (error) {
-    res.status(500).json({ message: 'Server error' })
-  }
-})
+app.use('/api/v1', router)
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}...`))

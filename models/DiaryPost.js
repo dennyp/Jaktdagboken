@@ -1,45 +1,34 @@
-/**
- * Model of a diary post.
- *
- * @author Denny Petersson
- * @version 1.0.0
- */
-
-'use strict'
-
-const mongoose = require('mongoose')
+import mongoose from 'mongoose'
 
 const diaryPostSchema = new mongoose.Schema({
   title: {
     type: String,
     required: true,
     trim: true,
-    minlength: 1
+    minlength: 1,
   },
   content: {
     type: String,
-    trim: true
+    trim: true,
   },
   events: {
-    type: Object
+    type: Object,
   },
   imageIds: {
-    type: Object
+    type: Object,
   },
   date: {
-    type: Date
+    type: Date,
   },
   createdAt: {
     type: Date,
     required: true,
-    default: Date.now
+    default: Date.now,
   },
   createdBy: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'User'
-  }
+    ref: 'User',
+  },
 })
 
-const DiaryPost = mongoose.model('DiaryPost', diaryPostSchema)
-
-module.exports = DiaryPost
+export const DiaryPost = mongoose.model('DiaryPost', diaryPostSchema)

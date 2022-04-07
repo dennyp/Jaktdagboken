@@ -1,40 +1,31 @@
-/**
- * Model of a User.
- *
- * @author Denny Petersson
- * @version 1.0.0
- */
-
-'use strict'
-
-const mongoose = require('mongoose')
-const bcrypt = require('bcrypt')
+import mongoose from 'mongoose'
+import bcrypt from 'bcrypt'
 
 const userSchema = new mongoose.Schema(
   {
     name: {
       type: String,
-      required: true
+      required: true,
     },
     email: {
       type: String,
       required: true,
-      unique: true
+      unique: true,
     },
     password: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   { timestamps: true }
 )
 
-userSchema.path('password').validate(password => {
+userSchema.path('password').validate((password) => {
   return password.length >= 8
 }, 'The password must be of minimum length 6 characters.')
 
 // Pre-hook that runs before saving the model to the db
-userSchema.pre('save', async function (next) {
+userSchema.pre('save', async function(next) {
   let user = this
   const saltRounds = 12
 
@@ -46,10 +37,8 @@ userSchema.pre('save', async function (next) {
 })
 
 // Method that compares the entered password with the one stored in the db
-userSchema.methods.comparePassword = function (candidatePassword) {
+userSchema.methods.comparePassword = function(candidatePassword) {
   return bcrypt.compare(candidatePassword, this.password)
 }
 
-const User = mongoose.model('User', userSchema)
-
-module.exports = User
+export const User = mongoose.model('User', userSchema)

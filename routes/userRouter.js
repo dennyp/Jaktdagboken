@@ -1,23 +1,14 @@
-/**
- * Router for user.
- *
- * @author Denny Petersson
- * @version 1.0.0
- */
+import express from 'express'
+import { UserController } from '../controllers/userController.js'
 
-'use strict'
+export const router = express.Router()
 
-const express = require('express')
-const router = express.Router()
-const controller = require('../controllers/userController')
+router.post('/login', (req, res, next) =>
+  UserController.loginPost(req, res, next)
+)
 
-// POST login
-router.post('/login', controller.loginPost)
+router.post('/register', (req, res, next) =>
+  UserController.registerPost(req, res, next)
+)
 
-// POST register
-router.post('/register', controller.registerPost)
-
-// GET logout
-router.get('/logout', controller.logout)
-
-module.exports = router
+router.get('/logout', (req, res, next) => UserController.logout(req, res, next))

@@ -1,8 +1,7 @@
-'use strict'
-
-const crypto = require('crypto')
-const path = require('path')
-const GridFsStorage = require('multer-gridfs-storage')
+import crypto from 'crypto'
+import path from 'path'
+import { GridFsStorage } from 'multer-gridfs-storage'
+import multer from 'multer'
 
 // Create storage engine
 const storage = new GridFsStorage({
@@ -16,12 +15,14 @@ const storage = new GridFsStorage({
         const filename = buf.toString('hex') + path.extname(file.originalname)
         const fileInfo = {
           filename: filename,
-          bucketName: 'images'
+          bucketName: 'images',
         }
         resolve(fileInfo)
       })
     })
-  }
+  },
 })
 
-module.exports = storage
+const upload = multer({ storage })
+
+export default upload
