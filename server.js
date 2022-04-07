@@ -72,4 +72,11 @@ app.use((req, res, next) => {
 
 app.use('/api/v1', router)
 
+app.use((err, req, res, next) => {
+  res.status(err.status).json({
+    status: err.status,
+    message: err.message,
+  })
+})
+
 app.listen(PORT, () => console.log(`Listening on port ${PORT}...`))
