@@ -1,5 +1,5 @@
 import { Animal } from '../models/Animal.js'
-const animalsController = {}
+import createError from 'http-errors'
 
 export class AnimalsController {
   /**
@@ -10,14 +10,31 @@ export class AnimalsController {
       const animals = await Animal.find({})
       return res.status(200).json(animals)
     } catch (err) {
-      return res.status(500)
+      next(createError(500))
     }
   }
 
   async create(req, res, next) {
     try {
+      next(createError(501))
     } catch (err) {
-      return res.status(500)
+      next()
+    }
+  }
+
+  async update(req, res, next) {
+    try {
+      next(createError(501))
+    } catch (err) {
+      next()
+    }
+  }
+
+  async delete(req, res, next) {
+    try {
+      next(createError(501))
+    } catch (err) {
+      next()
     }
   }
 }
